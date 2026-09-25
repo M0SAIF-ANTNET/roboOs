@@ -1,5 +1,7 @@
 # RoboOS
-<img width="2000" height="2000" alt="logo_roboos_main" src="https://github.com/user-attachments/assets/1c0ca680-f528-4896-baf7-7acef0fc26f7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00ee3db5-e2a3-4a11-868f-9f71f39c7630" alt="logo_roboos_main_no_bg" width="300" />
+</p>
 
 > **A robotics-first, terminal-first Linux operating system for robotics development, AI, computer vision, embedded systems, simulation, and hardware integration.**
 
@@ -65,9 +67,11 @@ The operating system is organized around robotics development rather than genera
 ## Terminal-first
 
 The terminal is a first-class interface.
-<img width="668" height="334" alt="image" src="https://github.com/user-attachments/assets/ba2e1d33-3a43-4b07-b9f6-468a2bc43311" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba2e1d33-3a43-4b07-b9f6-468a2bc43311" alt="image" width="600" />
+</p>
 
-
+<br />
 The graphical interface is optional and exists to make system management easier when a GUI provides a meaningful advantage.
 
 ## Hardware-aware
